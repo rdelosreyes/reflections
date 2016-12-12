@@ -30,3 +30,6 @@ In the diagram it is represented as a new commit point.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Pros: less work
+Cons: most probable mistakes.
