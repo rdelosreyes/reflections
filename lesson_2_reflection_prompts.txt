@@ -25,5 +25,8 @@ It is more intuitive than the simple git log.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The merge looks like a new commit that has all the commits from the two branches ordered by the time of the commit.
+In the diagram it is represented as a new commit point.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
