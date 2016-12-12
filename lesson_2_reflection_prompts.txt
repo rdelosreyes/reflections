@@ -20,6 +20,8 @@ Developing experimental code.
 
 How do the diagrams help you visualize the branch structure?
 
+It is more intuitive than the simple git log.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
