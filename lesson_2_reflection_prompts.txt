@@ -6,6 +6,8 @@ I would need to do it if I want to keep track of changes in the files.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+It is an intermediate state between the content of your working directory and your repository. It is like a organization folder.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
