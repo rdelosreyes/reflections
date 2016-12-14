@@ -12,4 +12,8 @@ Fork: clone someone's repository into GitHub
 Clone: copy a remote repository into my local working space
 Branch: label to a set of commits. Parallel development of the master branch.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+To compare and update our local branch offline to be able to merge to the remote one.
+
 
