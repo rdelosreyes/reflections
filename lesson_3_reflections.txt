@@ -6,3 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 I do not want my remote repository contain partial set of commits of my project. The full commit to the remote repository must be logical as well.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork: clone someone's repository into GitHub
+Clone: copy a remote repository into my local working space
+Branch: label to a set of commits. Parallel development of the master branch.
+
+
