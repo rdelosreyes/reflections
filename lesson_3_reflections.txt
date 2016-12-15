@@ -20,3 +20,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Sending zip files and making diff over the files. But intensive coordination would be required.
 Git and GgitHub makes this easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Anything but an stable version should not be part of master.
+
+
