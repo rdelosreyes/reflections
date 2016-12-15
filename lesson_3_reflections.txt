@@ -16,4 +16,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 To compare and update our local branch offline to be able to merge to the remote one.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
+Sending zip files and making diff over the files. But intensive coordination would be required.
+Git and GgitHub makes this easier.
